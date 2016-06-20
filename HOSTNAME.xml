@@ -1,0 +1,8 @@
+<XML>
+	<host>http://qa-eta:8080</host>
+	<nameServer>http://eta.qa.local</nameServer>
+	<user>qa_admin</user>
+	<password>admin</password>
+	<reportFolder>C:\\Users\\amnm\\Desktop\\TEST REPORT</reportFolder>
+	<reportfile>Report.xls</reportfile>
+</XML>
